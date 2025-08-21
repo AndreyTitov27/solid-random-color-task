@@ -1,0 +1,9 @@
+*.cpp linguist-language=Ignore
+*.h linguist-language=Ignore
+*.hpp linguist-language=Ignore
+
+CMakeLists.txt linguist-language=Ignore
+*.cmake linguist-language=Ignore
+
+build/** linguist-vendored
+*.g.dart linguist-vendored
