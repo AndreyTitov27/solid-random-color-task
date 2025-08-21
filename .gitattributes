@@ -1,9 +1,9 @@
-*.cpp linguist-language=Ignore
-*.h linguist-language=Ignore
-*.hpp linguist-language=Ignore
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.hpp linguist-vendored
 
-CMakeLists.txt linguist-language=Ignore
-*.cmake linguist-language=Ignore
+CMakeLists.txt linguist-vendored
+*.cmake linguist-vendored
 
 build/** linguist-vendored
 *.g.dart linguist-vendored
